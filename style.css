@@ -238,3 +238,60 @@ header .cases{
     float: left;
     padding-left: 195px;
 }
+.container{
+    background-image: url("img/backgrounds/subscribe.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 100px 40px;
+    text-align: center;
+    color: white;
+}
+.container p{
+    max-width: 600px;
+    margin: 40px auto;
+    font-size: 15px;
+    font-weight: 300;
+  
+
+
+}
+.email-box{
+    height: 50px;
+    display:flex;
+    justify-content: center;
+}
+.tbox, .btn{
+    border: none;
+    outline: none;
+}
+.tbox{
+    width: 260px;
+    padding:  0 10px;
+}
+.btn{
+    background: #F15A29;
+    color:white;
+    padding: 0 10px;
+    text-transform: uppercase;
+    cursor: p;
+}
+.h1{
+    padding-bottom: 20px;
+}
+.footer{
+    background-color: #F15A29;
+    /* width: 100%; */
+  border: 1px solid #F15A29;
+  padding: 70px;
+  padding-left: 40%;
+  /* margin: 20px; */
+}
+#menu{
+    padding-left: 20px;
+padding-bottom: 10px;
+}
+#cake{
+    float: left;
+    height: 20px;
+    width: 40px;
+}
