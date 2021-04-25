@@ -1,9 +1,10 @@
-# {Brian Kulei}
-# {Website Page}
+# Brian Kulei
+# Website Page
 # It is and html website of My Favorite Band 
 [live demo](https://brian6382.github.io/Anitas_Kitchen_project/)
 ## Description
-{It is a html website page use for entertainment purpose eg. music entertainment  }
+It resturant website.
+![Screenshot from 2021-04-25 20-06-24](https://user-images.githubusercontent.com/82508349/116002297-cbd76080-a601-11eb-8a69-113540691483.png)
 ## project setup instructions
 - copy the url on arrow down
 - Clone on your computer
