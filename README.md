@@ -10,11 +10,11 @@ It resturant website.
 - Clone on your computer
 - Go live or start your server
 ## Known Bugs
-HTML AND CSS
+THE forns do not load faster
 ## Technologies Used
 HTML AND CSS
 ## Support and contact details
-briankulei98@gmail.com
+briankulei98@gmail.com @briankulei in slack
 ### License
 Read our [lincences](./Lincense)
 Copyright (c) 2021 **MTI LINCENSE**
