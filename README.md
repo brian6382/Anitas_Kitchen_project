@@ -14,7 +14,7 @@ You can forke the project
 ## Technologies Used
 HTML AND CSS
 ## Support and contact details
-briankulei98@gmail.com @briankulei in slack
+briankulei98@gmail.com 
 ### License
 Read our [lincences](./Lincense)
 Copyright (c) 2021 **MTI LINCENSE**
