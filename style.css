@@ -292,7 +292,7 @@ header .cases{
 
 
 .container{
-    
+    padding-top: 100p;
     background-image: url("img/backgrounds/subscribe.jpg");
     background-repeat: no-repeat;
     background-size: cover;
