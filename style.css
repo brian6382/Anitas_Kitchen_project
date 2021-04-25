@@ -244,7 +244,7 @@ header .cases{
     height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
-    width: 100%;
+    /* width: 100%; */
     border: 2px solid white;
     
 }
