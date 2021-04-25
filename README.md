@@ -1,6 +1,6 @@
 # Brian Kulei
 # Website Page
-# It is and html website of My Favorite Band 
+# It is and html website of Antitas kitchen
 [live demo](https://brian6382.github.io/Anitas_Kitchen_project/)
 ## Description
 It resturant website.
