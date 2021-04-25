@@ -12,7 +12,7 @@ It resturant website.
 ## Known Bugs
 HTML AND CSS
 ## Technologies Used
-{I have used html and css of which html is used for creating the structure while css is to style the structure itself}
+HTML AND CSS
 ## Support and contact details
 briankulei98@gmail.com
 ### License
