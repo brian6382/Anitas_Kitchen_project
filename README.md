@@ -10,7 +10,7 @@ It resturant website.
 - Clone on your computer
 - Go live or start your server
 ## Known Bugs
-{Helps people to easy their minds and most of all to relax }
+HTML AND CSS
 ## Technologies Used
 {I have used html and css of which html is used for creating the structure while css is to style the structure itself}
 ## Support and contact details
