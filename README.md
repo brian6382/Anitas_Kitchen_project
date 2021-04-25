@@ -10,7 +10,7 @@ It resturant website.
 - Clone on your computer
 - Go live or start your server
 ## Known Bugs
-THE forns do not load faster
+You can forke the project
 ## Technologies Used
 HTML AND CSS
 ## Support and contact details
